@@ -60,9 +60,6 @@ INSERT INTO `employees` (`id`, `firstname`, `lastname`, `email`, `age`, `positio
 (14, 'Ola', 'Hoppe', 'dave74@gmail.com', 42, 18, NULL, NULL, '2024-06-11 01:49:34', '2024-06-11 01:49:34'),
 (16, 'Luther', 'Rodriguez', 'geovanny.crona@hotmail.com', 38, 19, NULL, NULL, '2024-06-18 01:42:53', '2024-06-18 01:42:53'),
 (17, 'Genoveva', 'Boehm', 'edna.schaden@hotmail.com', 34, 20, NULL, NULL, '2024-06-18 01:42:53', '2024-06-18 01:42:53'),
-(18, 'Rachael', 'Schaefer', 'jovani34@hilpert.com', 29, 21, NULL, NULL, '2024-06-18 01:42:53', '2024-06-18 01:42:53'),
-(19, 'Maida', 'Fay', 'abigale64@gmail.com', 29, 22, NULL, NULL, '2024-06-18 01:42:53', '2024-06-18 01:42:53'),
-(20, 'Rachael', 'Macejkovic', 'mina.daniel@hane.com', 38, 23, NULL, NULL, '2024-06-18 01:42:53', '2024-06-18 01:42:53'),
 
 -- --------------------------------------------------------
 
